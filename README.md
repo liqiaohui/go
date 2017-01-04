@@ -3,6 +3,7 @@ Codes for go learning.
 
 # Notes:
 1.For specification, your workspace directory tree should be:
+```
 	-- bin
 		hello
 		cgo
@@ -18,6 +19,7 @@ Codes for go learning.
 			cgo.go
 			-- cgoexample
 				cgoexample.go
+```
 
 2.Make sure you really understand "GOROOT"/"GOPATH"/"GOBIN", these variable is important to build or install a project.
 
